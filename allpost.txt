@@ -1,0 +1,1547 @@
+Pandas Cheat Sheet
+Last post by Sainey M. Drammeh · 23 days ago
+306
+views
+23
+replies
+
+is there any textbook you can recommand for new learners - GOOD recommendation
+Staff RepliedLast post by Awny Faris · 17 days ago
+1.7K
+views
+25
+replies
+
+Can not open and use Week 1 online notebook
+HighlightedLast post by Somaiya Juhil Girishbhai · 2 months ago
+784
+views
+8
+replies
+
+difference between reshape and resize
+HighlightedLast post by Aditya · 3 months ago
+1.2K
+views
+8
+replies
+
+Data Sheet for Pandas
+Created by Lawrence Woods · 13 hours ago
+1
+views
+0
+replies
+
+Assignment Two Submission Issues
+Created by Sara Morell · a day ago
+2
+views
+0
+replies
+
+How to download mpg.csv file
+Staff RepliedLast post by Yusuf Ertas · 2 days ago
+14
+views
+1
+replies
+
+I cannot move on to week two
+Staff RepliedLast post by Dave Patterson · 3 days ago
+18
+views
+2
+replies
+
+Regarding change in due time of assignments
+Staff RepliedLast post by Yusuf Ertas · 3 days ago
+9
+views
+1
+replies
+
+Using curly brackets to denote a dictionary
+Staff RepliedLast post by Yuxiang Wang · 7 days ago
+12
+views
+2
+replies
+
+map min
+Staff RepliedLast post by Yusuf Ertas · 8 days ago
+12
+views
+1
+replies
+
+Quiz question on slicing diagonal row
+Staff RepliedLast post by Patrick Tefs · 13 days ago
+115
+views
+5
+replies
+
+Week 1 objectives
+Created by Muhammad Nabeel Mahtab · 20 days ago
+14
+views
+0
+replies
+
+List Comprehension -- I can't figure out why my answer is incorrect
+Staff RepliedLast post by Yusuf Ertas · 25 days ago
+65
+views
+3
+replies
+
+Setting up a local virtual environment for the course.
+Created by Martin Uribe · a month ago
+18
+views
+0
+replies
+
+Which version of python is this course in?
+Last post by Martin Uribe · a month ago
+80
+views
+5
+replies
+
+What does This Weeks Assignment Comprise
+Staff RepliedLast post by Yusuf Ertas · a month ago
+135
+views
+4
+replies
+
+Instructions for installing Jupyter notebook on local computer?
+Staff RepliedLast post by Yusuf Ertas · a month ago
+21
+views
+1
+replies
+
+% precision 2
+Last post by Admilson Aparecido Marques do Amaral · a month ago
+174
+views
+4
+replies
+
+packing and unpacking
+Staff RepliedLast post by Yusuf Ertas · a month ago
+19
+views
+1
+replies
+
+Enter plus shift not working
+Staff RepliedLast post by Yusuf Ertas · a month ago
+17
+views
+3
+replies
+
+Cannot run NumPy module
+Staff RepliedLast post by Yusuf Ertas · a month ago
+9
+views
+1
+replies
+
+How r[[2,3],[2,3]] works in arrays slicing
+Staff RepliedLast post by Yusuf Ertas · a month ago
+20
+views
+1
+replies
+
+query on np.arange(13)**2
+Staff RepliedLast post by Sankara Krishnan · a month ago
+12
+views
+2
+replies
+
+Python Summarizing functions
+Staff RepliedLast post by Yusuf Ertas · 2 months ago
+7
+views
+1
+replies
+
+Regarding Videos
+Staff RepliedLast post by Yusuf Ertas · 2 months ago
+12
+views
+1
+replies
+
+Just a comment
+Created by Van Bao Son Nguyen · 2 months ago
+12
+views
+0
+replies
+
+numpy
+Staff RepliedLast post by Yusuf Ertas · 2 months ago
+8
+views
+1
+replies
+
+timezone in python date time
+Staff RepliedLast post by suchi banerjee · 2 months ago
+5
+views
+2
+replies
+
+Python Demonstration: Reading and Writing CSV files
+HighlightedLast post by Milan Milicevic · 2 months ago
+119
+views
+4
+replies
+
+Which version of python is this course in?
+Last post by Tamer Emre · 2 months ago
+22
+views
+5
+replies
+
+Resize vs Reshape
+HighlightedLast post by Anna Verkhovykh · 2 months ago
+52
+views
+3
+replies
+
+Temporary Changes to this Specialization
+Last post by Tomas Hernandez Acosta · 2 months ago
+31
+views
+1
+replies
+
+Temporary Changes to this Specialization
+Last post by Saheed Imam · 2 months ago
+8
+views
+2
+replies
+
+Retrieving original files in Jupyter workspace
+Last post by Sophie Greene · 2 months ago
+17
+views
+17
+replies
+
+Retrieving original files in Jupyter workspace
+Last post by Sophie Greene · 2 months ago
+7
+views
+7
+replies
+
+Please refrain from posting your email address on the forums
+Last post by Bish Sinha · 2 months ago
+10
+views
+2
+replies
+
+Remember to save your notebook before submitting!
+Staff CreatedLast post by Lady Andrea Salguero · 2 months ago
+20
+views
+6
+replies
+
+Remember to save your notebook before submitting!
+Staff CreatedLast post by Jayant Singh · 2 months ago
+13
+views
+13
+replies
+
+Regarding Branch or specialization.
+Staff RepliedLast post by Yusuf Ertas · 2 months ago
+5
+views
+1
+replies
+
+Could you please help me in understand below code
+Staff RepliedLast post by Yusuf Ertas · 2 months ago
+25
+views
+1
+replies
+
+Sorting Examples in Week 1's Reading and Writing CSV files
+Staff RepliedLast post by Yusuf Ertas · 2 months ago
+16
+views
+1
+replies
+
+"kind" parameter is "add" or is not passed in
+Staff RepliedLast post by Yusuf Ertas · 2 months ago
+7
+views
+1
+replies
+
+Lambda Function with Multiple Operations
+Staff RepliedLast post by Yusuf Ertas · 2 months ago
+30
+views
+1
+replies
+
+Trying to print the Jupyter notebook
+Staff RepliedLast post by Yusuf Ertas · 2 months ago
+7
+views
+1
+replies
+
+Does anyone else think that the mpg example is lousy?
+Staff RepliedLast post by Yusuf Ertas · 2 months ago
+27
+views
+1
+replies
+
+Autograder throwing exceptions while no error in Jupyter
+Created by Kshitiz Tiwari · 2 months ago
+9
+views
+0
+replies
+
+Week 1 Assignment Question
+Staff RepliedLast post by Yusuf Ertas · 2 months ago
+56
+views
+2
+replies
+
+Subscription status unclear
+Staff RepliedLast post by Yusuf Ertas · 2 months ago
+8
+views
+1
+replies
+
+date time function
+Staff RepliedLast post by Yusuf Ertas · 2 months ago
+15
+views
+1
+replies
+
+Lambda Function video question
+Staff RepliedLast post by Amy Druckenmiller · 2 months ago
+131
+views
+7
+replies
+
+CAN NOT OPEN OR DOWNLOAD ANY VIDEOS
+Staff RepliedLast post by Yusuf Ertas · 2 months ago
+14
+views
+1
+replies
+
+Can not see or download any videos, why is that?
+Staff RepliedLast post by Yusuf Ertas · 3 months ago
+7
+views
+1
+replies
+
+Can not see any video in this course, somebody help?
+Staff RepliedLast post by Yusuf Ertas · 3 months ago
+10
+views
+1
+replies
+
+problem in Q5 and Q6
+Staff RepliedLast post by Sheyda Ghanbaralizadeh · 3 months ago
+29
+views
+2
+replies
+
+Batch Whatsapp Group
+Created by UMANG SHARMA · 3 months ago
+23
+views
+0
+replies
+
+Anybody here talking about the assignment?
+Created by Tiancong Gao · 3 months ago
+21
+views
+0
+replies
+
+Where can I download mpg.csv file?
+Staff RepliedLast post by Yusuf Ertas · 3 months ago
+47
+views
+1
+replies
+
+Which one is more optimized ?
+Staff RepliedLast post by Aditya · 3 months ago
+20
+views
+2
+replies
+
+Where to download census.csv?
+Staff RepliedLast post by Yusuf Ertas · 3 months ago
+24
+views
+1
+replies
+
+Map
+Staff RepliedLast post by Aleko khantadze · 3 months ago
+37
+views
+2
+replies
+
+Hello
+Created by Juan Camilo Cardona Cano · 3 months ago
+9
+views
+0
+replies
+
+Anaconda link not working for Jupiter install?
+Staff RepliedLast post by John Sigward · 3 months ago
+15
+views
+2
+replies
+
+Cannot install Jupyter Notebook offline
+Staff RepliedLast post by John Sigward · 3 months ago
+20
+views
+2
+replies
+
+"Python more on Strings". Unsure about link?
+Staff RepliedLast post by Mark James · 3 months ago
+18
+views
+2
+replies
+
+mpg.csv File Not Found Error!
+Staff RepliedLast post by Devanshu jindal · 3 months ago
+75
+views
+4
+replies
+
+Ques 4 - conflicting responses on forum
+Staff RepliedLast post by Rahul Chandra · 3 months ago
+34
+views
+2
+replies
+
+Getting started.
+Staff RepliedLast post by Yusuf Ertas · 3 months ago
+30
+views
+3
+replies
+
+Problème dans les Quizzes
+Staff RepliedLast post by Yusuf Ertas · 3 months ago
+22
+views
+3
+replies
+
+some problems i met, thank you!
+Staff RepliedLast post by Yusuf Ertas · 3 months ago
+37
+views
+10
+replies
+
+Reading and Writing CSV files Output Not Like Video
+Staff RepliedLast post by Yusuf Ertas · 3 months ago
+44
+views
+1
+replies
+
+Lecture Note
+Staff RepliedLast post by Yusuf Ertas · 3 months ago
+33
+views
+1
+replies
+
+datetime import doesn't work as expected
+Staff RepliedLast post by Yusuf Ertas · 3 months ago
+14
+views
+1
+replies
+
+Can not watch the video
+Last post by Gagandeep Manku · 4 months ago
+9
+views
+1
+replies
+
+how to complete labs?
+Staff RepliedLast post by Yusuf Ertas · 4 months ago
+32
+views
+1
+replies
+
+Confusion In CSV DictRead()
+Staff RepliedLast post by Yusuf Ertas · 4 months ago
+36
+views
+1
+replies
+
+General question about the backgorund experience that I need
+Staff RepliedLast post by Yusuf Ertas · 4 months ago
+42
+views
+1
+replies
+
+Unable to import mpg file in online jupyter module
+Staff RepliedLast post by Yusuf Ertas · 4 months ago
+31
+views
+1
+replies
+
+nested loops
+Staff RepliedLast post by Anand Sankanna · 4 months ago
+29
+views
+2
+replies
+
+%precision 2 gives Invalid Syntax on Mac running python 3.6.5
+Staff RepliedLast post by Yusuf Ertas · 4 months ago
+56
+views
+3
+replies
+
+Python Demonstration: Reading and Writing CSV files: Can we have the .csv file used in the example.
+Staff RepliedLast post by Yusuf Ertas · 4 months ago
+47
+views
+1
+replies
+
+restart message
+Staff RepliedLast post by Yusuf Ertas · 4 months ago
+17
+views
+3
+replies
+
+lambda functions
+Staff RepliedLast post by Yusuf Ertas · 4 months ago
+267
+views
+6
+replies
+
+ERROR in Video Advanced Python Demonstration: The Numerical Python Library (NumPy) 5:04
+Last post by Kirk Shanks · 5 months ago
+29
+views
+1
+replies
+
+Iterate over keys vs values
+Last post by Tom Vilot · 5 months ago
+42
+views
+4
+replies
+
+Numpy
+Last post by Javier Ruano · 5 months ago
+31
+views
+1
+replies
+
+Advanced Python Lambda and List Comprehensions
+Last post by Tom Vilot · 5 months ago
+48
+views
+1
+replies
+
+Use of time deltas in DateTime module.
+Created by Bhumika Lamba · 5 months ago
+15
+views
+0
+replies
+
+annoyed at list comprehension
+Last post by Sven Mathijssen · 5 months ago
+52
+views
+1
+replies
+
+Problem accessing Jupyter Notebook for Week 1.
+Last post by Ng Geok Hong Janice · 5 months ago
+18
+views
+1
+replies
+
+More on Strings
+Last post by hetal chauhan · 5 months ago
+35
+views
+1
+replies
+
+confusion regarding output
+Staff RepliedLast post by Yusuf Ertas · 5 months ago
+27
+views
+1
+replies
+
+Slicing on 3D array
+Staff RepliedLast post by Yusuf Ertas · 5 months ago
+29
+views
+1
+replies
+
+Is Linear Algebra a prerequisite to this course?
+Staff RepliedLast post by Cecile Honda · 5 months ago
+112
+views
+6
+replies
+
+Survey is broken
+Last post by Cecile Honda · 5 months ago
+18
+views
+1
+replies
+
+keys() in reading and writing CSV files
+Staff RepliedLast post by Yusuf Ertas · 5 months ago
+29
+views
+1
+replies
+
+can't understand this code.
+Staff RepliedLast post by UMANG SHARMA · 5 months ago
+66
+views
+4
+replies
+
+Reading And Writing CSV file
+Staff RepliedLast post by Yusuf Ertas · 5 months ago
+46
+views
+1
+replies
+
+Lesson : Reading and writing Csvs
+Staff RepliedLast post by megha · 6 months ago
+177
+views
+5
+replies
+
+numpy reshape function syntax
+Mentor RepliedLast post by Yusuf Ertas · 6 months ago
+32
+views
+1
+replies
+
+create a new notebook
+Last post by Ravikant Vijayvargiya · 6 months ago
+38
+views
+6
+replies
+
+Always could not watch the video
+Mentor RepliedLast post by Ravikant Vijayvargiya · 6 months ago
+20
+views
+2
+replies
+
+Source code
+Mentor RepliedLast post by Yusuf Ertas · 6 months ago
+25
+views
+1
+replies
+
+Having trouble with the Lambda exercise in Week 1
+Staff RepliedLast post by Jo Are By · 6 months ago
+154
+views
+3
+replies
+
+python program download
+Last post by john · 6 months ago
+54
+views
+2
+replies
+
+map
+Last post by Jo Are By · 6 months ago
+63
+views
+1
+replies
+
+Why doesn't it alter the original array?
+Last post by Christine Maxey · 6 months ago
+48
+views
+5
+replies
+
+Notebook working offline
+Staff RepliedLast post by Pakho Law · 6 months ago
+34
+views
+2
+replies
+
+Version of Jupyter Notebook
+Staff RepliedLast post by Michael Vigoda · 7 months ago
+32
+views
+3
+replies
+
+Question on the 1st week's jupyter code
+Mentor RepliedLast post by Yeong Seob Shin · 7 months ago
+61
+views
+2
+replies
+
+Lamda
+Mentor RepliedLast post by Jo Are By · 7 months ago
+84
+views
+2
+replies
+
+The answer of the problem is wrong
+Staff RepliedLast post by Michael Vigoda · 7 months ago
+92
+views
+2
+replies
+
+A question about the video named python types and sequences
+Staff RepliedLast post by Michael Vigoda · 7 months ago
+27
+views
+1
+replies
+
+Current Python Modules in notebook 4/20/2018
+Created by Tracy L. Labombard · 7 months ago
+13
+views
+0
+replies
+
+The demonstrations are impossible to follow without pausing the video every three seconds
+Staff RepliedLast post by Michael Vigoda · 7 months ago
+258
+views
+6
+replies
+
+Array Slicing Questions
+Staff RepliedLast post by Claudia van Dijk · 7 months ago
+67
+views
+2
+replies
+
+3rd Array Slicing Question
+Created by Claudia van Dijk · 7 months ago
+20
+views
+0
+replies
+
+2nd Array Slicing Question
+Created by Claudia van Dijk · 7 months ago
+25
+views
+0
+replies
+
+Notice for Auditing Learners: Assignment Submission
+Staff RepliedLast post by Michael Vigoda · 8 months ago
+696
+views
+8
+replies
+
+sum (float (d [hwy]) for d in mpg
+Staff RepliedLast post by Michael Vigoda · 8 months ago
+38
+views
+1
+replies
+
+Regards map() Question - Week 1
+Staff RepliedLast post by Michael Vigoda · 8 months ago
+177
+views
+5
+replies
+
+Incorrect course content: You CAN have default values for Lambda parameters
+Created by Subham Bhowmick · 8 months ago
+34
+views
+0
+replies
+
+About reading csv. Some more clarification required
+Created by Oleksandr Tverdokhlieb · 8 months ago
+43
+views
+0
+replies
+
+why we must write as this==>(lambda x: x.split()[0] + ' ' + x.split()[-1])(person)
+Staff RepliedLast post by Daniel Wilk · 8 months ago
+283
+views
+8
+replies
+
+Can't in-video quiz notebooks using the android app
+Mentor RepliedLast post by Yusuf Ertas · 8 months ago
+24
+views
+1
+replies
+
+Assignment #2 - Question 0 (Example)
+Mentor RepliedLast post by Julian Ong · 8 months ago
+55
+views
+2
+replies
+
+No output when running code in notebook
+Staff RepliedLast post by Michael Vigoda · 8 months ago
+109
+views
+9
+replies
+
+Explain me the difference between linespace() and arrange() functions in numpy
+Mentor RepliedLast post by Yusuf Ertas · 8 months ago
+42
+views
+1
+replies
+
+Subtleties in Python
+Created by Shamik Biswas · 8 months ago
+25
+views
+0
+replies
+
+About the question 6 and 7. I couldn't find out why I am wrong
+Created by zhou shiming · 8 months ago
+49
+views
+0
+replies
+
+mpg.csv: python can read and parse, but format is weird
+Last post by Avi Leventhal · 8 months ago
+36
+views
+3
+replies
+
+Help in Python Programming
+Mentor RepliedLast post by Alfredo Valles · 8 months ago
+49
+views
+2
+replies
+
+help!!!
+Staff RepliedLast post by Michael Vigoda · 8 months ago
+54
+views
+1
+replies
+
+Advice from a Student - Read the instructions and the forums before doing the Assignments.
+Staff RepliedLast post by Michael Vigoda · 8 months ago
+204
+views
+7
+replies
+
+Class Resources and Duration of videos
+Last post by Nima Najaflou · 8 months ago
+33
+views
+1
+replies
+
+Data mining Project For begginers
+Last post by Nima Najaflou · 8 months ago
+79
+views
+1
+replies
+
+Predictive analysis
+Last post by Nima Najaflou · 8 months ago
+53
+views
+1
+replies
+
+Error Report of installing Jupyter Notebook from Anaconda 3
+Created by 武轩 · 9 months ago
+14
+views
+0
+replies
+
+FileNotFoundError: [Errno 2] No such file or directory: 'mpg.csv' - Answer now included
+Last post by Jean Paul Paramor · 9 months ago
+55
+views
+2
+replies
+
+Python Demonstration: Reading and Writing CSV files - better solution
+Last post by Hazelnut WholePeanut · 9 months ago
+60
+views
+1
+replies
+
+Query about dataframes
+Staff RepliedLast post by Michael Vigoda · 9 months ago
+28
+views
+1
+replies
+
+I’m unable to play the video on my iOS device. All other courses work fine.
+Staff RepliedLast post by Michael Vigoda · 9 months ago
+9
+views
+1
+replies
+
+Can I answer questions in Spanish?
+Staff RepliedLast post by Michael Vigoda · 9 months ago
+24
+views
+1
+replies
+
+Why won't python start from the command line? PROBLEM SOLVED
+Last post by George Bloor · 9 months ago
+11
+views
+1
+replies
+
+50 years of Data Science
+Staff RepliedLast post by Christopher Brooks · 9 months ago
+74
+views
+3
+replies
+
+Can't enter birthday on survey
+Last post by Benjamin James Bush · 9 months ago
+14
+views
+2
+replies
+
+In[29] - When did name and email get defined for this table?
+Last post by Peter Manyara · 9 months ago
+37
+views
+3
+replies
+
+Syntax Question:Python Demonstration: Reading and Writing CSV files
+Last post by Alessandra Montalbano · 9 months ago
+43
+views
+1
+replies
+
+csv.DictReader() displays file other way then expected
+Last post by Andrea Koltai · 9 months ago
+26
+views
+1
+replies
+
+Course
+Created by Tatiana · 9 months ago
+28
+views
+0
+replies
+
+Quiz Week 1
+Last post by Deadletter Grad · 9 months ago
+74
+views
+1
+replies
+
+I did not understand how all diagonal values (0, 7, 14, 21, 28) are fetched from array of 6x6
+Last post by Umesh Kaushik · 10 months ago
+82
+views
+1
+replies
+
+ValueError: could not convert string to float: while reading from CSV
+Staff RepliedLast post by Kumar Pranav · 10 months ago
+43
+views
+2
+replies
+
+Where to download olympics.csv
+Mentor RepliedLast post by Maximilian Muecke · 10 months ago
+80
+views
+1
+replies
+
+Can I sharing some of the course lectures with friends?
+Last post by Chhitiz Buchasia · 10 months ago
+56
+views
+1
+replies
+
+Number of attempts for each assignments/quizes
+Staff RepliedLast post by Michael Vigoda · 10 months ago
+86
+views
+1
+replies
+
+Where is Assignment1?
+Staff RepliedLast post by Michael Vigoda · 10 months ago
+71
+views
+2
+replies
+
+Defining a function.
+Staff RepliedLast post by Michael Vigoda · 10 months ago
+57
+views
+1
+replies
+
+I don't know Python language
+Staff RepliedLast post by Michael Vigoda · 10 months ago
+90
+views
+1
+replies
+
+%precision 2
+Last post by Pierre Vanliefland · 10 months ago
+80
+views
+3
+replies
+
+import numpy as np
+Last post by Pierre Vanliefland · 10 months ago
+60
+views
+1
+replies
+
+.format in exercise
+Last post by Нечаев Максим Вячеславович · 10 months ago
+26
+views
+1
+replies
+
+Iterate over all of the keys
+Last post by Sagar Shah · 10 months ago
+39
+views
+2
+replies
+
+The location of the file to open in Jupyter notebook
+Mentor RepliedLast post by Godwin · 10 months ago
+38
+views
+2
+replies
+
+What would be an appropriate slice to get the name "Christopher" from the string "Dr. Christopher Brooks"?
+Last post by Cecile Honda · 10 months ago
+61
+views
+2
+replies
+
+x['Kevyn Collins-Thompson'] = None
+Mentor RepliedLast post by Henk Westerink · 10 months ago
+26
+views
+1
+replies
+
+Is there a yaml file we can use to establish the environment in Anaconda?
+Mentor RepliedLast post by Henk Westerink · 10 months ago
+17
+views
+1
+replies
+
+Invalid Token for week_1 Jupyter Notebook
+Last post by Jamie Waese · 10 months ago
+19
+views
+1
+replies
+
+Numpy
+Mentor RepliedLast post by Tamer Sobhy · 10 months ago
+74
+views
+2
+replies
+
+Map Task Error
+Last post by HTTS001 · 10 months ago
+28
+views
+1
+replies
+
+The question for the quiz at the end of the video advanced python object map()
+Last post by HSIEH · 10 months ago
+60
+views
+1
+replies
+
+why is the week1 quiz showing as "item as locked"
+Last post by Pavan Bavireddy · a year ago
+40
+views
+1
+replies
+
+numpy session is like a bullet train
+Last post by Virginia Bleu Knight · a year ago
+206
+views
+7
+replies
+
+How do I get the jupyter notebook to run?
+Last post by Todd Mitchell · a year ago
+34
+views
+1
+replies
+
+Doubt on exercise in lecture Advanced Python Objects, map()
+Last post by Rhaydrick Sandokhan Pinheiro Teixeira Tavares · a year ago
+55
+views
+2
+replies
+
+mph data set???
+Mentor RepliedLast post by Alan Jones · a year ago
+70
+views
+2
+replies
+
+Your assignment is incomplete
+Last post by J.F.Brinkman · a year ago
+30
+views
+2
+replies
+
+How to index irregular nonconsecutive columns and rows from a numpy array
+Last post by 涂玉臻 · a year ago
+17
+views
+1
+replies
+
+A question of flag parameter
+Last post by Uddyalok Banerjee · a year ago
+38
+views
+3
+replies
+
+Unrecognizable code ‘%precision 2’
+Mentor RepliedLast post by Henk Westerink · a year ago
+45
+views
+1
+replies
+
+Cannot meet week 1 quiz deadline
+Mentor RepliedLast post by Herman Benjamin Brummer · a year ago
+68
+views
+2
+replies
+
+where is the csv file for week 1
+Last post by vinod jain · a year ago
+58
+views
+1
+replies
+
+lambda and list comprehension
+Mentor RepliedLast post by Amber Goel · a year ago
+117
+views
+2
+replies
+
+str.split()
+Last post by San Dianyang · a year ago
+41
+views
+2
+replies
+
+Several questions of Week 1
+Mentor RepliedLast post by Scot Favorite · a year ago
+155
+views
+3
+replies
+
+Textbook
+Mentor RepliedLast post by Uwe F Mayer · a year ago
+46
+views
+1
+replies
+
+I cannot find the "installing the Jupyter notebooks" video
+Created by SneakyFish · a year ago
+23
+views
+0
+replies
+
+How can I get the datafile about the cars?
+Mentor RepliedLast post by Henk Westerink · a year ago
+41
+views
+1
+replies
+
+Numpy
+Mentor RepliedLast post by Henk Westerink · a year ago
+51
+views
+1
+replies
+
+printing keys
+Mentor RepliedLast post by Henk Westerink · a year ago
+18
+views
+1
+replies
+
+Is there a shortcut to create a new cell in the notebook?
+Last post by Campbell McGrouther · a year ago
+12
+views
+1
+replies
+
+sorting example in week 1's Cars CSV file lecture
+Mentor RepliedLast post by Anupam Kumar Singh · a year ago
+70
+views
+2
+replies
+
+Jupyter notebook offline
+Mentor RepliedLast post by Kuldeep singh · a year ago
+84
+views
+2
+replies
+
+Need the csv file
+Last post by Arijit Ghosh · a year ago
+150
+views
+2
+replies
+
+I don't like this course.
+Created by Deleted Account · a year ago
+172
+views
+0
+replies
+
+Demonstrations go so dang fast
+Last post by Kevin D'Elia · a year ago
+100
+views
+1
+replies
+
+numpy.arange vs numpy.linspace
+Staff RepliedLast post by Shubham Kumar Verma · a year ago
+38
+views
+2
+replies
+
+Order of printing
+Staff RepliedLast post by Sophie Greene · a year ago
+32
+views
+2
+replies
+
+TypeError: sum() missing 1 required positional argument: 'b'
+Staff RepliedLast post by Sophie Greene · a year ago
+30
+views
+1
+replies
+
+datetime code does not pull today date and time?
+Last post by Yen Le · a year ago
+34
+views
+2
+replies
+
+question 3 for the assignment
+Staff RepliedLast post by Sophie Greene · a year ago
+110
+views
+3
+replies
+
+NumPy installation
+Staff RepliedLast post by Sophie Greene · a year ago
+78
+views
+4
+replies
+
+Notebook explanation of dictionaries
+Last post by Shubham Kumar Verma · a year ago
+68
+views
+1
+replies
+
+This course actually does not follow week based schedule?
+Mentor RepliedLast post by Scot Favorite · a year ago
+107
+views
+3
+replies
+
+Importing CSV files with Spyder/Anaconda
+Staff RepliedLast post by Sophie Greene · a year ago
+104
+views
+8
+replies
+
+Practice Problems Dealing with CSV Files
+Last post by Chirag Gupta · a year ago
+40
+views
+1
+replies
+
+Where can I find the csv files to save on my computer?
+Last post by Bilal Khan · a year ago
+47
+views
+1
+replies
+
+[Java] Question about the video Python Demonstration: Reading and Writing CSV files
+Staff RepliedLast post by Josyn Novu · a year ago
+81
+views
+5
+replies
+
+do not use '==' for comparisons with None
+Created by Alexey Kalinin · a year ago
+40
+views
+0
+replies
+
+Requirements
+Staff RepliedLast post by Sophie Greene · a year ago
+101
+views
+4
+replies
+
+Resource for learning what I need to know about arrays
+Mentor RepliedLast post by Henk Westerink · a year ago
+42
+views
+1
+replies
+
+String like lists or tuples ?
+Staff RepliedLast post by Malik Koné · a year ago
+42
+views
+2
+replies
+
+problem with flag
+Staff RepliedLast post by Sophie Greene · a year ago
+29
+views
+1
+replies
+
+return '{} {}'.format(title, lastname)
+Mentor RepliedLast post by Henk Westerink · a year ago
+53
+views
+1
+replies
+
+course resources
+Staff RepliedLast post by Sophie Greene · a year ago
+107
+views
+1
+replies
+
+NumPy - Unable to return alternate values
+Last post by John Kilbourne · a year ago
+38
+views
+1
+replies
+
+Unable to open the csv file in Jupyter through a path
+Staff RepliedLast post by Sophie Greene · a year ago
+74
+views
+1
+replies
+
+def pl( x, y, z, flag=False) dont understand why False
+Last post by QiyanZhang · a year ago
+62
+views
+2
+replies
+
+Notebook code example
+HighlightedLast post by Michael Meidl · a year ago
+72
+views
+1
+replies
+
+%precision
+Staff RepliedLast post by James Salter-Duke · a year ago
+93
+views
+2
+replies
+
+Exercise 1 on using map()
+Staff RepliedLast post by Sophie Greene · a year ago
+157
+views
+1
+replies
+
