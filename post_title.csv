@@ -1,0 +1,237 @@
+postNum, title, Created_by, Last_post_by, views, replies, Highlited, Staff Replied, 
+https://www.coursera.org/learn/python-data-analysis/discussions/weeks/1/?page=1
+1,"Pandas Cheat Sheet",NA,Sainey M. Drammeh ,306,23,0
+2,"is there any textbook you can recommand for new learners - GOOD recommendation",NA,Awny Faris ,1.7K,25,0
+3,"Can not open and use Week 1 online notebook",NA,Somaiya Juhil Girishbhai ,784,8,1
+4,"difference between reshape and resize",NA,Aditya ,1.2K,8,1
+5,"Data Sheet for Pandas", Lawrence Woods ,NA,1,0,0
+6,"Assignment Two Submission Issues", Sara Morell ,NA,2,0,0
+7,"How to download mpg.csv file",NA,Yusuf Ertas ,14,1,0
+8,"I cannot move on to week two",NA,Dave Patterson ,18,2,0
+9,"Regarding change in due time of assignments",NA,Yusuf Ertas ,9,1,0
+10,"Using curly brackets to denote a dictionary",NA,Yuxiang Wang ,12,2,0
+11,"map min",NA,Yusuf Ertas ,12,1,0
+12,"Quiz question on slicing diagonal row",NA,Patrick Tefs ,115,5,0
+13,"Week 1 objectives", Muhammad Nabeel Mahtab ,NA,14,0,0
+14,"List Comprehension -- I can't figure out why my answer is incorrect",NA,Yusuf Ertas ,65,3,0
+15,"Setting up a local virtual environment for the course.", Martin Uribe ,NA,18,0,0
+https://www.coursera.org/learn/python-data-analysis/discussions/weeks/1/?page=2
+1,"Which version of python is this course in?",NA,Martin Uribe ,80,5,0
+2,"What does This Weeks Assignment Comprise",NA,Yusuf Ertas ,135,4,0
+3,"Instructions for installing Jupyter notebook on local computer?",NA,Yusuf Ertas ,21,1,0
+4,"% precision 2",NA,Admilson Aparecido Marques do Amaral ,174,4,0
+5,"packing and unpacking",NA,Yusuf Ertas ,19,1,0
+6,"Enter plus shift not working",NA,Yusuf Ertas ,17,3,0
+7,"Cannot run NumPy module",NA,Yusuf Ertas ,9,1,0
+8,"How r[[2,3],[2,3]] works in arrays slicing",NA,Yusuf Ertas ,20,1,0
+9,"query on np.arange(13)**2",NA,Sankara Krishnan ,12,2,0
+10,"Python Summarizing functions",NA,Yusuf Ertas ,7,1,0
+11,"Regarding Videos",NA,Yusuf Ertas ,12,1,0
+12,"Just a comment", Van Bao Son Nguyen ,NA,12,0,0
+13,"numpy",NA,Yusuf Ertas ,8,1,0
+14,"timezone in python date time",NA,suchi banerjee ,5,2,0
+15,"Python Demonstration: Reading and Writing CSV files",NA,Milan Milicevic ,119,4,1
+https://www.coursera.org/learn/python-data-analysis/discussions/weeks/1/?page=3
+1,"Which version of python is this course in?",NA,Tamer Emre ,22,5,0
+2,"Resize vs Reshape",NA,Anna Verkhovykh ,52,3,1
+3,"Temporary Changes to this Specialization",NA,Tomas Hernandez Acosta ,31,1,0
+4,"Temporary Changes to this Specialization",NA,Saheed Imam ,8,2,0
+5,"Retrieving original files in Jupyter workspace",NA,Sophie Greene ,17,17,0
+6,"Retrieving original files in Jupyter workspace",NA,Sophie Greene ,7,7,0
+7,"Please refrain from posting your email address on the forums",NA,Bish Sinha ,10,2,0
+8,"Remember to save your notebook before submitting!",NA,Lady Andrea Salguero ,20,6,0
+9,"Remember to save your notebook before submitting!",NA,Jayant Singh ,13,13,0
+10,"Regarding Branch or specialization.",NA,Yusuf Ertas ,5,1,0
+11,"Could you please help me in understand below code",NA,Yusuf Ertas ,25,1,0
+12,"Sorting Examples in Week 1's Reading and Writing CSV files",NA,Yusuf Ertas ,16,1,0
+13,""kind" parameter is "add" or is not passed in",NA,Yusuf Ertas ,7,1,0
+14,"Lambda Function with Multiple Operations",NA,Yusuf Ertas ,30,1,0
+15,"Trying to print the Jupyter notebook",NA,Yusuf Ertas ,7,1,0
+https://www.coursera.org/learn/python-data-analysis/discussions/weeks/1/?page=4
+1,"Does anyone else think that the mpg example is lousy?",NA,Yusuf Ertas ,27,1,0
+2,"Autograder throwing exceptions while no error in Jupyter", Kshitiz Tiwari ,NA,9,0,0
+3,"Week 1 Assignment Question",NA,Yusuf Ertas ,56,2,0
+4,"Subscription status unclear",NA,Yusuf Ertas ,8,1,0
+5,"date time function",NA,Yusuf Ertas ,15,1,0
+6,"Lambda Function video question",NA,Amy Druckenmiller ,131,7,0
+7,"CAN NOT OPEN OR DOWNLOAD ANY VIDEOS",NA,Yusuf Ertas ,14,1,0
+8,"Can not see or download any videos, why is that?",NA,Yusuf Ertas ,7,1,0
+9,"Can not see any video in this course, somebody help?",NA,Yusuf Ertas ,10,1,0
+10,"problem in Q5 and Q6",NA,Sheyda Ghanbaralizadeh ,29,2,0
+11,"Batch Whatsapp Group", UMANG SHARMA ,NA,23,0,0
+12,"Anybody here talking about the assignment?", Tiancong Gao ,NA,21,0,0
+13,"Where can I download mpg.csv file?",NA,Yusuf Ertas ,47,1,0
+14,"Which one is more optimized ?",NA,Aditya ,20,2,0
+15,"Where to download census.csv?",NA,Yusuf Ertas ,24,1,0
+https://www.coursera.org/learn/python-data-analysis/discussions/weeks/1/?page=5
+1,"Map",NA,Aleko khantadze ,37,2,0
+2,"Hello", Juan Camilo Cardona Cano ,NA,9,0,0
+3,"Anaconda link not working for Jupiter install?",NA,John Sigward ,15,2,0
+4,"Cannot install Jupyter Notebook offline",NA,John Sigward ,20,2,0
+5,""Python more on Strings". Unsure about link?",NA,Mark James ,18,2,0
+6,"mpg.csv File Not Found Error!",NA,Devanshu jindal ,75,4,0
+7,"Ques 4 - conflicting responses on forum",NA,Rahul Chandra ,34,2,0
+8,"Getting started.",NA,Yusuf Ertas ,30,3,0
+9,"Problème dans les Quizzes",NA,Yusuf Ertas ,22,3,0
+10,"some problems i met, thank you!",NA,Yusuf Ertas ,37,10,0
+11,"Reading and Writing CSV files Output Not Like Video",NA,Yusuf Ertas ,44,1,0
+12,"Lecture Note",NA,Yusuf Ertas ,33,1,0
+13,"datetime import doesn't work as expected",NA,Yusuf Ertas ,14,1,0
+14,"Can not watch the video",NA,Gagandeep Manku ,9,1,0
+15,"how to complete labs?",NA,Yusuf Ertas ,32,1,0
+https://www.coursera.org/learn/python-data-analysis/discussions/weeks/1/?page=6
+1,"Confusion In CSV DictRead()",NA,Yusuf Ertas ,36,1,0
+2,"General question about the backgorund experience that I need",NA,Yusuf Ertas ,42,1,0
+3,"Unable to import mpg file in online jupyter module",NA,Yusuf Ertas ,31,1,0
+4,"nested loops",NA,Anand Sankanna ,29,2,0
+5,"%precision 2 gives Invalid Syntax on Mac running python 3.6.5",NA,Yusuf Ertas ,56,3,0
+6,"Python Demonstration: Reading and Writing CSV files: Can we have the .csv file used in the example.",NA,Yusuf Ertas ,47,1,0
+7,"restart message",NA,Yusuf Ertas ,17,3,0
+8,"lambda functions",NA,Yusuf Ertas ,267,6,0
+9,"ERROR in Video Advanced Python Demonstration: The Numerical Python Library (NumPy) 5:04",NA,Kirk Shanks ,29,1,0
+10,"Iterate over keys vs values",NA,Tom Vilot ,42,4,0
+11,"Numpy",NA,Javier Ruano ,31,1,0
+12,"Advanced Python Lambda and List Comprehensions",NA,Tom Vilot ,48,1,0
+13,"Use of time deltas in DateTime module.", Bhumika Lamba ,NA,15,0,0
+14,"annoyed at list comprehension",NA,Sven Mathijssen ,52,1,0
+15,"Problem accessing Jupyter Notebook for Week 1.",NA,Ng Geok Hong Janice ,18,1,0
+https://www.coursera.org/learn/python-data-analysis/discussions/weeks/1/?page=7
+1,"More on Strings",NA,hetal chauhan ,35,1,0
+2,"confusion regarding output",NA,Yusuf Ertas ,27,1,0
+3,"Slicing on 3D array",NA,Yusuf Ertas ,29,1,0
+4,"Is Linear Algebra a prerequisite to this course?",NA,Cecile Honda ,112,6,0
+5,"Survey is broken",NA,Cecile Honda ,18,1,0
+6,"keys() in reading and writing CSV files",NA,Yusuf Ertas ,29,1,0
+7,"can't understand this code.",NA,UMANG SHARMA ,66,4,0
+8,"Reading And Writing CSV file",NA,Yusuf Ertas ,46,1,0
+9,"Lesson : Reading and writing Csvs",NA,megha ,177,5,0
+10,"numpy reshape function syntax",NA,Yusuf Ertas ,32,1,0
+11,"create a new notebook",NA,Ravikant Vijayvargiya ,38,6,0
+12,"Always could not watch the video",NA,Ravikant Vijayvargiya ,20,2,0
+13,"Source code",NA,Yusuf Ertas ,25,1,0
+14,"Having trouble with the Lambda exercise in Week 1",NA,Jo Are By ,154,3,0
+15,"python program download",NA,john ,54,2,0
+https://www.coursera.org/learn/python-data-analysis/discussions/weeks/1/?page=8
+1,"map",NA,Jo Are By ,63,1,0
+2,"Why doesn't it alter the original array?",NA,Christine Maxey ,48,5,0
+3,"Notebook working offline",NA,Pakho Law ,34,2,0
+4,"Version of Jupyter Notebook",NA,Michael Vigoda ,32,3,0
+5,"Question on the 1st week's jupyter code",NA,Yeong Seob Shin ,61,2,0
+6,"Lamda",NA,Jo Are By ,84,2,0
+7,"The answer of the problem is wrong",NA,Michael Vigoda ,92,2,0
+8,"A question about the video named python types and sequences",NA,Michael Vigoda ,27,1,0
+9,"Current Python Modules in notebook 4/20/2018", Tracy L. Labombard ,NA,13,0,0
+10,"The demonstrations are impossible to follow without pausing the video every three seconds",NA,Michael Vigoda ,258,6,0
+11,"Array Slicing Questions",NA,Claudia van Dijk ,67,2,0
+12,"3rd Array Slicing Question", Claudia van Dijk ,NA,20,0,0
+13,"2nd Array Slicing Question", Claudia van Dijk ,NA,25,0,0
+14,"Notice for Auditing Learners: Assignment Submission",NA,Michael Vigoda ,696,8,0
+15,"sum (float (d [hwy]) for d in mpg",NA,Michael Vigoda ,38,1,0
+https://www.coursera.org/learn/python-data-analysis/discussions/weeks/1/?page=9
+1,"Regards map() Question - Week 1",NA,Michael Vigoda ,177,5,0
+2,"Incorrect course content: You CAN have default values for Lambda parameters", Subham Bhowmick ,NA,34,0,0
+3,"About reading csv. Some more clarification required", Oleksandr Tverdokhlieb ,NA,43,0,0
+4,"why we must write as this==>(lambda x: x.split()[0] + ' ' + x.split()[-1])(person)",NA,Daniel Wilk ,283,8,0
+5,"Can't in-video quiz notebooks using the android app",NA,Yusuf Ertas ,24,1,0
+6,"Assignment #2 - Question 0 (Example)",NA,Julian Ong ,55,2,0
+7,"No output when running code in notebook",NA,Michael Vigoda ,109,9,0
+8,"Explain me the difference between linespace() and arrange() functions in numpy",NA,Yusuf Ertas ,42,1,0
+9,"Subtleties in Python", Shamik Biswas ,NA,25,0,0
+10,"About the question 6 and 7. I couldn't find out why I am wrong", zhou shiming ,NA,49,0,0
+11,"mpg.csv: python can read and parse, but format is weird",NA,Avi Leventhal ,36,3,0
+12,"Help in Python Programming",NA,Alfredo Valles ,49,2,0
+13,"help!!!",NA,Michael Vigoda ,54,1,0
+14,"Advice from a Student - Read the instructions and the forums before doing the Assignments.",NA,Michael Vigoda ,204,7,0
+15,"Class Resources and Duration of videos",NA,Nima Najaflou ,33,1,0
+https://www.coursera.org/learn/python-data-analysis/discussions/weeks/1/?page=10
+1,"Data mining Project For begginers",NA,Nima Najaflou ,79,1,0
+2,"Predictive analysis",NA,Nima Najaflou ,53,1,0
+3,"Error Report of installing Jupyter Notebook from Anaconda 3", 武轩 ,NA,14,0,0
+4,"FileNotFoundError: [Errno 2] No such file or directory: 'mpg.csv' - Answer now included",NA,Jean Paul Paramor ,55,2,0
+5,"Python Demonstration: Reading and Writing CSV files - better solution",NA,Hazelnut WholePeanut ,60,1,0
+6,"Query about dataframes",NA,Michael Vigoda ,28,1,0
+7,"I’m unable to play the video on my iOS device. All other courses work fine.",NA,Michael Vigoda ,9,1,0
+8,"Can I answer questions in Spanish?",NA,Michael Vigoda ,24,1,0
+9,"Why won't python start from the command line? PROBLEM SOLVED",NA,George Bloor ,11,1,0
+10,"50 years of Data Science",NA,Christopher Brooks ,74,3,0
+11,"Can't enter birthday on survey",NA,Benjamin James Bush ,14,2,0
+12,"In[29] - When did name and email get defined for this table?",NA,Peter Manyara ,37,3,0
+13,"Syntax Question:Python Demonstration: Reading and Writing CSV files",NA,Alessandra Montalbano ,43,1,0
+14,"csv.DictReader() displays file other way then expected",NA,Andrea Koltai ,26,1,0
+15,"Course", Tatiana ,NA,28,0,0
+https://www.coursera.org/learn/python-data-analysis/discussions/weeks/1/?page=11
+1,"Quiz Week 1",NA,Deadletter Grad ,74,1,0
+2,"I did not understand how all diagonal values (0, 7, 14, 21, 28) are fetched from array of 6x6",NA,Umesh Kaushik ,82,1,0
+3,"ValueError: could not convert string to float: while reading from CSV",NA,Kumar Pranav ,43,2,0
+4,"Where to download olympics.csv",NA,Maximilian Muecke ,80,1,0
+5,"Can I sharing some of the course lectures with friends?",NA,Chhitiz Buchasia ,56,1,0
+6,"Number of attempts for each assignments/quizes",NA,Michael Vigoda ,86,1,0
+7,"Where is Assignment1?",NA,Michael Vigoda ,71,2,0
+8,"Defining a function.",NA,Michael Vigoda ,57,1,0
+9,"I don't know Python language",NA,Michael Vigoda ,90,1,0
+10,"%precision 2",NA,Pierre Vanliefland ,80,3,0
+11,"import numpy as np",NA,Pierre Vanliefland ,60,1,0
+12,".format in exercise",NA,Нечаев Максим Вячеславович ,26,1,0
+13,"Iterate over all of the keys",NA,Sagar Shah ,39,2,0
+14,"The location of the file to open in Jupyter notebook",NA,Godwin ,38,2,0
+15,"What would be an appropriate slice to get the name "Christopher" from the string "Dr. Christopher Brooks"?",NA,Cecile Honda ,61,2,0
+https://www.coursera.org/learn/python-data-analysis/discussions/weeks/1/?page=12
+1,"x['Kevyn Collins-Thompson'] = None",NA,Henk Westerink ,26,1,0
+2,"Is there a yaml file we can use to establish the environment in Anaconda?",NA,Henk Westerink ,17,1,0
+3,"Invalid Token for week_1 Jupyter Notebook",NA,Jamie Waese ,19,1,0
+4,"Numpy",NA,Tamer Sobhy ,74,2,0
+5,"Map Task Error",NA,HTTS001 ,28,1,0
+6,"The question for the quiz at the end of the video advanced python object map()",NA,HSIEH ,60,1,0
+7,"why is the week1 quiz showing as "item as locked"",NA,Pavan Bavireddy ,40,1,0
+8,"numpy session is like a bullet train",NA,Virginia Bleu Knight ,206,7,0
+9,"How do I get the jupyter notebook to run?",NA,Todd Mitchell ,34,1,0
+10,"Doubt on exercise in lecture Advanced Python Objects, map()",NA,Rhaydrick Sandokhan Pinheiro Teixeira Tavares ,55,2,0
+11,"mph data set???",NA,Alan Jones ,70,2,0
+12,"Your assignment is incomplete",NA,J.F.Brinkman ,30,2,0
+13,"How to index irregular nonconsecutive columns and rows from a numpy array",NA,涂玉臻 ,17,1,0
+14,"A question of flag parameter",NA,Uddyalok Banerjee ,38,3,0
+15,"Unrecognizable code ‘%precision 2’",NA,Henk Westerink ,45,1,0
+https://www.coursera.org/learn/python-data-analysis/discussions/weeks/1/?page=13
+1,"Cannot meet week 1 quiz deadline",NA,Herman Benjamin Brummer ,68,2,0
+2,"where is the csv file for week 1",NA,vinod jain ,58,1,0
+3,"lambda and list comprehension",NA,Amber Goel ,117,2,0
+4,"str.split()",NA,San Dianyang ,41,2,0
+5,"Several questions of Week 1",NA,Scot Favorite ,155,3,0
+6,"Textbook",NA,Uwe F Mayer ,46,1,0
+7,"I cannot find the "installing the Jupyter notebooks" video", SneakyFish ,NA,23,0,0
+8,"How can I get the datafile about the cars?",NA,Henk Westerink ,41,1,0
+9,"Numpy",NA,Henk Westerink ,51,1,0
+10,"printing keys",NA,Henk Westerink ,18,1,0
+11,"Is there a shortcut to create a new cell in the notebook?",NA,Campbell McGrouther ,12,1,0
+12,"sorting example in week 1's Cars CSV file lecture",NA,Anupam Kumar Singh ,70,2,0
+13,"Jupyter notebook offline",NA,Kuldeep singh ,84,2,0
+14,"Need the csv file",NA,Arijit Ghosh ,150,2,0
+15,"I don't like this course.", Deleted Account ,NA,172,0,0
+https://www.coursera.org/learn/python-data-analysis/discussions/weeks/1/?page=14
+1,"Demonstrations go so dang fast",NA,Kevin D'Elia ,100,1,0
+2,"numpy.arange vs numpy.linspace",NA,Shubham Kumar Verma ,38,2,0
+3,"Order of printing",NA,Sophie Greene ,32,2,0
+4,"TypeError: sum() missing 1 required positional argument: 'b'",NA,Sophie Greene ,30,1,0
+5,"datetime code does not pull today date and time?",NA,Yen Le ,34,2,0
+6,"question 3 for the assignment",NA,Sophie Greene ,110,3,0
+7,"NumPy installation",NA,Sophie Greene ,78,4,0
+8,"Notebook explanation of dictionaries",NA,Shubham Kumar Verma ,68,1,0
+9,"This course actually does not follow week based schedule?",NA,Scot Favorite ,107,3,0
+10,"Importing CSV files with Spyder/Anaconda",NA,Sophie Greene ,104,8,0
+11,"Practice Problems Dealing with CSV Files",NA,Chirag Gupta ,40,1,0
+12,"Where can I find the csv files to save on my computer?",NA,Bilal Khan ,47,1,0
+13,"[Java] Question about the video Python Demonstration: Reading and Writing CSV files",NA,Josyn Novu ,81,5,0
+14,"do not use '==' for comparisons with None", Alexey Kalinin ,NA,40,0,0
+15,"Requirements",NA,Sophie Greene ,101,4,0
+https://www.coursera.org/learn/python-data-analysis/discussions/weeks/1/?page=15
+1,"Resource for learning what I need to know about arrays",NA,Henk Westerink ,42,1,0
+2,"String like lists or tuples ?",NA,Malik Koné ,42,2,0
+3,"problem with flag",NA,Sophie Greene ,29,1,0
+4,"return '{} {}'.format(title, lastname)",NA,Henk Westerink ,53,1,0
+5,"course resources",NA,Sophie Greene ,107,1,0
+6,"NumPy - Unable to return alternate values",NA,John Kilbourne ,38,1,0
+7,"Unable to open the csv file in Jupyter through a path",NA,Sophie Greene ,74,1,0
+8,"def pl( x, y, z, flag=False) dont understand why False",NA,QiyanZhang ,62,2,0
+9,"Notebook code example",NA,Michael Meidl ,72,1,1
+10,"%precision",NA,James Salter-Duke ,93,2,0
+11,"Exercise 1 on using map()",NA,Sophie Greene ,157,1,0
