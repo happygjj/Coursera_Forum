@@ -83,39 +83,76 @@ class CScraper():
     def extract_post_information(self, pageReady,url):
         if pageReady == True:
             try:
-                # self.driver.find_elements_by_class_name("forReader")
-                # rc-ThreadsListEntry blurred
                 wait = WebDriverWait(self.driver, self.delay)
                 wait.until(EC.presence_of_element_located((By.CLASS_NAME, "forReader")))
                 all_posts = self.driver.find_elements_by_class_name("rc-ThreadsListEntry")
                 print(type(all_posts))
-                print(len(all_posts))
+                print("the length of all_posts is: ", len(all_posts))
                 print(all_posts[0])
                 if len(all_posts) != 0:
                     infoExtracted = True
                 postList = []
+                allposttxt = open("allpost.txt", "a+", encoding="utf8")
+                postcounter = 0
                 for post in all_posts:
+                    postcounter += 1
                     info = post.text
+                    allposttxt.write(info + "\n" + "\n")
                     info = info.split('\n')
                     title = info[0]
+                    print(title)
                     line2 = info[1]
+                    print(line2)
+                    line2Map = self.__read_line2(line2)
+                    print(type(line2Map.items()))
                     views = info[2]
                     replies = info[4]
-                    postMap = {"title": title, "line2": line2, "views": views, "replies": replies}
-                    print(postMap["title"], postMap["line2"], postMap["views"], postMap["replies"])
+                    postMap = {"postNum": postcounter, "title": title, "views": views, "replies": replies}
+                    print(postMap.items())
+                    for item in line2Map.keys():
+                        postMap[item] = line2Map[item]
+                        print("postMap line2Map transfer good")
+                    print(["title"], postMap["views"], postMap["replies"])
                     postList.append(postMap)
                     print(len(postList))
+                allposttxt.close()
                 self.postBlueMap[url] = postList
             except:
                 print("cannot fine the posts")
 
+    def __read_line2(self, a):
+        line2 = {}
+        if "Highlighted" in a:
+            line2["Highlighted"] = 1
+        else:
+            line2["Highlighted"] = 0
+        if "Staff Replied" in a:
+            line2["Staff Replied"] = 1
+        else:
+            line2["Staff Replied"] = 0
+        if "Last post by " in a:
+            timeSplit = a.split("· ")
+            line2["timePosted"] = timeSplit[-1]
+            namePostSplit = timeSplit[0].split("Last post by ")
+            line2["nameLastPosted"] = namePostSplit[-1]
+            line2["nameCreated"] = "NA"
+            print(line2)
+        if "Created by" in a:
+            timeSplit = a.split("· ")
+            line2["timePosted"] = timeSplit[-1]
+            namePostSplit = timeSplit[0].split("Created by")
+            line2["nameCreated"] = namePostSplit[-1]
+            line2["nameLastPosted"] = "NA"
+        print(line2)
+        print(type(line2))
+        return line2
 # write all the post information from the big dictionary in to a CSV file named "post_title.csv"
 # input: none
 # return: void
     def write_csv(self):
         try:
             with open("post_title.csv", "a+", encoding="utf8") as titleCSV:
-                titleCSV.write("title, line2, views, replies\n")
+                titleCSV.write("postNum, title, Created_by, Last_post_by, views, replies, Highlited, Staff Replied, \n")
                 map = self.postBlueMap
                 for i in map.keys():
                     try:
@@ -124,7 +161,10 @@ class CScraper():
                         continue
                     for j in map[i]:
                         try:
-                            titleCSV.write("{},{},{},{}\n".format(j["title"], j["line2"], j["views"], j["replies"]))
+                            titleCSV.write('{},\"{}\",{},{},{},{},{}\n'.format(j["postNum"], j["title"],
+                                                                               j["nameCreated"], j["nameLastPosted"],
+                                                                               j["views"], j["replies"], j["Highlighted"],
+                                                                               j["Staff Replied"]))
                         except:
                             continue
         except:
@@ -132,8 +172,8 @@ class CScraper():
 
 
 if __name__ == '__main__':
-    email = ""
-    password = ""
+    email = "lushi@umich.edu"
+    password = "MEI1blossom"
     course = "python-data-analysis"
     week = "1"
     f = CScraper(course, week)
@@ -141,13 +181,15 @@ if __name__ == '__main__':
     loginSucess = f.login(email, password)
     print(loginSucess)
     if loginSucess:
-        urlList = f.url_generator()
+        urlList = f.url_generator(1, 15)
         for eachUrl in urlList:
             pageLoaded = f.load_one_url(page=eachUrl)
             f.extract_post_information(pageLoaded, eachUrl)
-    bigMap = f.bigMap()
-    for item in bigMap.keys():
-        print(bigMap[item])
+    bigmap = f.bigMap()
+    for item in bigmap.keys():
+        print("---------Printing the bigMap---------------")
+        print(bigmap.keys())
+        print(bigmap[item])
     f.write_csv()
     f.quit()
 
