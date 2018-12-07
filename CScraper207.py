@@ -226,8 +226,8 @@ class CScraper():
 
 
 if __name__ == '__main__':
-    email = "lushi@umich.edu"
-    password = "MEI1blossom"
+    email = ""
+    password = ""
     course = "python-data-analysis"
     week = "1"
     f = CScraper(course, week)
